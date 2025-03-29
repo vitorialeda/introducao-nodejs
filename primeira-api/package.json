@@ -1,0 +1,21 @@
+{
+  "name": "primeira-api",
+  "version": "1.0.0",
+  "description": "nossa primeira api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "primeira",
+    "api"
+  ],
+  "author": "Vitória Leda",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "sequelize": "^6.37.6",
+    "sqlite3": "^5.1.7"
+  }
+}
